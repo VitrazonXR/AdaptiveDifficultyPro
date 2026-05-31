@@ -1,7 +1,7 @@
 # AdaptiveDifficultyPro
 
 # How to Use 🏫
-This mod calculates how easy or hard to make the server based on this formula "mobs killed - player deaths". There are 4 adaptive difficulties. Easy, Vanilla, Hard, and Brutal. In the config.yml, you can customize the value of the result of the formula mentioned above. You can not customize Vanilla, as it's just the difficulty in between the Easy and Hard thresholds. You can also edit the value of which the server refreshes what difficulty it is. So basically whatever the result of the equation is after that amount of time, that's the new difficulty. In low player servers, you should make all of the values closer to 0, as I don't think 100 people will die in 5 minutes without any mob kills. You should definitely edit the config.yml if you want to make the settings good. 
+This mod calculates how easy or hard to make the server based on this formula "mobs killed - player deaths". There are 4 adaptive difficulties. Easy, Vanilla, Hard, and Brutal. In the config.yml, you can customize the value of the result of the formula mentioned above. You can not customize Vanilla, as it's just the difficulty in between the Easy and Hard thresholds. You can also edit the value of which the server refreshes what difficulty it is. So basically whatever the result of the equation is after that amount of time, that's the new difficulty. In low player servers, you should make all of the values closer to 0, as I don't think 100 people will die in 5 minutes without any mob kills. You should definitely edit the config.yml if you want to make the settings good.  
 
 # Compatiblilty 📋
 
